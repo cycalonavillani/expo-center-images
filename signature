@@ -1,0 +1,27 @@
+<table style="width: 100%; max-width: 400px; border: 1px solid #ddd; border-radius: 8px; padding: 16px; font-family: Arial, sans-serif; color: #333;">
+   <tr>
+      <td style="vertical-align: top;">
+         <!-- Logo or Profile Image -->
+         <img src="https://github.com/cycalonavillani/expo-center-images/blob/main/logo.png?raw=true" alt="Logo" width="80" style="border: 2px solid #ddd;" />
+      </td>
+      <td style="padding-left: 16px;">
+         <!-- Name and Job Title -->
+         <p style="margin: 0; font-size: 16px; font-weight: bold; color: #222;">Cycalona Villani</p>
+         <p style="margin: 0; font-size: 14px; color: #555;">Event Coordinator</p>
+         <p style="margin: 8px 0 0 0; font-size: 14px; color: #777;">Southeast Expo Center</p>
+
+         <!-- Contact Information -->
+         <p style="margin: 12px 0 0 0; font-size: 14px;">
+            📞 <a href="tel:+14699298777" style="text-decoration: none; color: #0066cc;">(469) 929-8777</a><br>
+            📧 <a href="mailto:cycalona.villani@gmail.com" style="text-decoration: none; color: #0066cc;">cycalona.villani@gmail.com</a><br>
+            🌐 <a href="http://www.southeastexpocenter.com" style="text-decoration: none; color: #0066cc;">southeastexpocenter.com</a>
+         </p>
+
+         <!-- Social Media Icons (Optional) -->
+         <p style="margin: 16px 0 0 0;">
+            <a href="https://www.linkedin.com/in/your-profile" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24" /></a>
+            <a href="https://www.twitter.com/your-profile" style="text-decoration: none; margin-left: 8px;"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="24" /></a>
+         </p>
+      </td>
+   </tr>
+</table>
