@@ -1,0 +1,35 @@
+<div style="width: 100%; max-width: 500px; font-family: Arial, sans-serif; color: #333; border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 20px;">
+   <table style="width: 100%; border-collapse: collapse;">
+      <!-- Social Media Icons -->
+      <tr>
+         <td style="padding-bottom: 10px;">
+            <a href="https://www.facebook.com/SoutheastExpo" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="24" style="margin-right: 8px;" /></a>
+            <a href="https://twitter.com" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="24" style="margin-right: 8px;" /></a>
+            <a href="https://linkedin.com" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24" style="margin-right: 8px;" /></a>
+            <a href="https://instagram.com" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="24" /></a>
+         </td>
+      </tr>
+      <tr>
+         <!-- Name, Job Title, and Logo -->
+         <td style="display: flex; align-items: center;">
+            <div style="flex: 1;">
+               <!-- Name and Title -->
+               <p style="margin: 0; font-size: 18px; font-weight: bold; color: #9b1012;">SHANNON STACEY</p>
+               <p style="margin: 0; font-size: 14px; color: #9b1012;">Facilities Manager</p>
+            </div>
+            <!-- Logo -->
+            <div style="text-align: right;">
+               <img src="https://github.com/cycalonavillani/expo-center-images/blob/main/logo.png?raw=true" alt="Southeast Expo Center Logo" width="130px" />
+            </div>
+         </td>
+      </tr>
+      <tr>
+         <td style="padding-top: 10px; border-top: 1px solid #ccc; font-size: 14px;">
+            <!-- Contact Information -->
+            <p style="margin: 2px 0; color: #333;">Office: <span style="color: #9b1012;">918 423 1338</span></p>
+            <p style="margin: 2px 0; color: #333;">Address: <span style="color: #9b1012;">4500 W Highway 270, McAlester, OK 74501</span></p>
+            <p style="margin: 2px 0; color: #333;">Website: <a href="https://www.southeastexpocenter.com" style="text-decoration: none; color: #9b1012;">southeastexpocenter.com</a></p>
+         </td>
+      </tr>
+   </table>
+</div>
