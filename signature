@@ -26,10 +26,10 @@
       <tr>
          <td style="padding-top: 10px; border-top: 1px solid #ccc; font-size: 14px;">
             <!-- Contact Information -->
-            <p style="margin: 0; color: #333;">Mobile: <span style="color: #9b1012;">469 919 8777</span></p>
-            <p style="margin: 5px 0 0 0; color: #333;">Office: <span style="color: #9b1012;">918 423 1338</span></p>
-            <p style="margin: 5px 0 0 0; color: #333;">Address: <span style="color: #9b1012;">4500 W Highway 270, McAlester, OK 74501</span></p>
-            <p style="margin: 5px 0 0 0; color: #333;">Website: <a href="https://www.southeastexpocenter.com" style="text-decoration: none; color: #9b1012;">southeastexpocenter.com</a></p>
+            <p style="margin: 2px 0; color: #333;">Mobile: <span style="color: #9b1012;">469 919 8777</span></p>
+            <p style="margin: 2px 0; color: #333;">Office: <span style="color: #9b1012;">918 423 1338</span></p>
+            <p style="margin: 2px 0; color: #333;">Address: <span style="color: #9b1012;">4500 W Highway 270, McAlester, OK 74501</span></p>
+            <p style="margin: 2px 0; color: #333;">Website: <a href="https://www.southeastexpocenter.com" style="text-decoration: none; color: #9b1012;">southeastexpocenter.com</a></p>
          </td>
       </tr>
    </table>
