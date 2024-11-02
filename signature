@@ -1,27 +1,39 @@
-<table style="width: 100%; max-width: 400px; border: 1px solid #ddd; border-radius: 8px; padding: 16px; font-family: Arial, sans-serif; color: #333;">
+<table style="width: 100%; max-width: 500px; font-family: Arial, sans-serif; color: #333; border-collapse: collapse;">
    <tr>
-      <td style="vertical-align: top;">
-         <!-- Logo or Profile Image -->
-         <img src="https://github.com/cycalonavillani/expo-center-images/blob/main/logo.png?raw=true" alt="Logo" width="80" style="border: 2px solid #ddd;" />
+      <td style="padding-bottom: 5px; font-size: 12px; color: #151413;">
+         Kind Regards,
       </td>
-      <td style="padding-left: 16px;">
-         <!-- Name and Job Title -->
-         <p style="margin: 0; font-size: 16px; font-weight: bold; color: #222;">Cycalona Villani</p>
-         <p style="margin: 0; font-size: 14px; color: #555;">Event Coordinator</p>
-         <p style="margin: 8px 0 0 0; font-size: 14px; color: #777;">Southeast Expo Center</p>
-
+   </tr>
+   <tr>
+      <!-- Name, Job Title, and Logo -->
+      <td style="display: flex; align-items: center; padding-bottom: 10px;">
+         <!-- Name and Title -->
+         <div style="flex: 1 float;">
+            <p style="margin: 0; font-size: 18px; font-weight: bold; color: #9b1012;">Clonie Villani</p>
+            <p style="margin: 0; font-size: 14px; color: #9b1012;">Event Coordinator</p>
+         </div>
+         <!-- Logo -->
+         <div style="margin-left: 10px;">
+            <img src="https://github.com/cycalonavillani/expo-center-images/blob/main/logo.png?raw=true" alt="Southeast Expo Center Logo" width="130px" />
+         </div>
+      </td>
+   </tr>
+   <tr>
+      <td style="padding-top: 10px; border-top: 1px solid #ccc; font-size: 14px;">
          <!-- Contact Information -->
-         <p style="margin: 12px 0 0 0; font-size: 14px;">
-            📞 <a href="tel:+14699298777" style="text-decoration: none; color: #0066cc;">(469) 929-8777</a><br>
-            📧 <a href="mailto:cycalona.villani@gmail.com" style="text-decoration: none; color: #0066cc;">cycalona.villani@gmail.com</a><br>
-            🌐 <a href="http://www.southeastexpocenter.com" style="text-decoration: none; color: #0066cc;">southeastexpocenter.com</a>
-         </p>
-
-         <!-- Social Media Icons (Optional) -->
-         <p style="margin: 16px 0 0 0;">
-            <a href="https://www.linkedin.com/in/your-profile" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24" /></a>
-            <a href="https://www.twitter.com/your-profile" style="text-decoration: none; margin-left: 8px;"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="24" /></a>
-         </p>
+         <p style="margin: 0; color: #333;">Mobile: <span style="color: #9b1012;">469 919 8777</span></p>
+         <p style="margin: 5px 0 0 0; color: #333;">Office: <span style="color: #9b1012;">918 423 1338</span></p>
+         <p style="margin: 5px 0 0 0; color: #333;">Address: <span style="color: #9b1012;">4500 W Highway 270, McAlester, OK 74501</span></p>
+         <p style="margin: 5px 0 0 0; color: #333;">Website: <span style="color: #9b1012;">https://wwww.southeastexpocenter.com</span></p>
+      </td>
+   </tr>
+   <tr>
+      <td style="padding-top: 10px;">
+         <!-- Social Media Icons -->
+         <a href="https://www.facebook.com/SoutheastExpo" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" width="24" style="margin-right: 8px;" /></a>
+         <a href="https://twitter.com" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="24" style="margin-right: 8px;" /></a>
+         <a href="https://linkedin.com" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24" style="margin-right: 8px;" /></a>
+         <a href="https://instagram.com" style="text-decoration: none;"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="24" /></a>
       </td>
    </tr>
 </table>
